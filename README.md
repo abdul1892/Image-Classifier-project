@@ -16,6 +16,19 @@ This system can be used for emotion-based human-computer interaction, mood track
 
 ---
 
+## 💻 Technologies Used
+
+| Tool/Library   | Purpose                          |
+|----------------|----------------------------------|
+| Python 3.8+     | Programming language             |
+| TensorFlow/Keras | Deep learning framework         |
+| NumPy          | Numerical computations            |
+| Matplotlib     | Data visualization                |
+| Scikit-learn   | Model evaluation (accuracy, F1)   |
+
+
+---
+
 ## 🧾 Dataset Description
 
 The dataset consists of two folders:
@@ -26,12 +39,7 @@ Each image is a face cropped to focus on emotional features. All images are resi
 
 ---
 
-## 🔍 Use Cases
 
-- Emotion-aware AI applications
-- Mental health tech and analytics
-- Interactive art and games
-- Smart surveillance systems
 
 
 
