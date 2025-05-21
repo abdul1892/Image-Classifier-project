@@ -7,7 +7,7 @@ A deep learning-based image classification project built with Python and TensorF
 ## 📂 Project Structure
 
 image-classifier/
- data/ # Training and test data
+ data/ # Training and test data<br>
  models/ # Saved model checkpoints
  notebooks/ # Jupyter notebooks for EDA and training
  src/ # Source code
